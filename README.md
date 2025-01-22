@@ -1,4 +1,4 @@
-# Learning-Hub-CaseStudy
+# Lending-Hub-CaseStudy
 This is a case study is to study given input Customer and Loan data with the business objective of identifying <br>
 	<UL>
  		<LI>If a person is likely to default,  </LI>
@@ -11,9 +11,9 @@ This is a case study is to study given input Customer and Loan data with the bus
 	</UL>
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Objectives](#Objectives)
+* [Dataset Analysis](#Dataset-Analysis)
+* [Approach](#Approach)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -25,7 +25,7 @@ This is a case study is to study given input Customer and Loan data with the bus
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
+## Objectives
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
@@ -34,14 +34,14 @@ This is a case study is to study given input Customer and Loan data with the bus
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## Dataset Analysis
 - library - version 1.0
 - library - version 2.0
 - library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
+## Approach
 Give credit here.
 - This project was inspired by...
 - References if any...
