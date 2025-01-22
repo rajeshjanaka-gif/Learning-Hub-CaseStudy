@@ -21,18 +21,27 @@ This is a case study is to study given input Customer and Loan data with the bus
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## Problem Statement
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
+Lending club is a leading financial organization which does business by giving loans and collecting the EMIs for specified itnerest rates.  This business involves Risk.<br> 
+There two types of Risks.<br>
+<UL>
+	<LI>Loss of business</LI>
+	<</LI>>Financial loss</LI>
+</UL>
+Data given  contains Consumer attributes, Loan attributes about past loan applicants whether they ‘defaulted’ or not.<br>
+The problem is to find Dividing Factors, Driving Factors behind loan defaulters. Variables which are strong indicators of loan defaulters.                
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Objectives
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+This Objective of this case study is identifying <br>
+	<UL>
+ 		<LI>If a person is likely to default,  </LI>
+		<LI>taking actions such as </LI>
+  		<UL>
+			<LI>Denying the loan </LI>
+			<LI>Reducing the amount of loan </LI>
+			<LI>Lending  at a higher interest rate - to risky applicants</LI>
+   		</UL>
+	</UL>
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
