@@ -4,9 +4,9 @@ This is a case study is to study given input Customer and loan data with the bus
  		<LI>if a person is likely to default,  </LI>
 		<LI>taking actions such as </LI>
   		<UL>
-			<LI>denying the loan, </LI>
-			<LI>reducing the amount of loan, </LI>
-			<LI>lending (to risky applicants) at a higher interest rate, etc.</LI>
+			<LI>denying the loan </LI>
+			<LI>reducing the amount of loan </LI>
+			<LI>lending (to risky applicants) at a higher interest rate</LI>
    		</UL>
 	</UL>
 ## Table of Contents
