@@ -14,6 +14,9 @@ This is a case study is to study given input Customer and Loan data with the bus
 * [Objectives](#Objectives)
 * [Dataset Analysis](#Dataset-Analysis)
 * [Approach](#Approach)
+* [Analysis](#Analysis)
+* [Results](#Results)
+* [Summary](#Summary)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -47,6 +50,14 @@ Give credit here.
 - References if any...
 - This project was based on [this tutorial](https://www.example.com).
 
+## Analysis
+-ABCD
+
+## Results
+-ABCD
+
+## Summary
+-ABCD
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
