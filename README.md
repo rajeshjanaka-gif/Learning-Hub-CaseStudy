@@ -1,6 +1,10 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Learning-Hub-CaseStudy
+This is a case study is to study given input Customer and loan data with the business objective of identifying 
+	if a person is likely to default, 
+	taking actions such as 
+		denying the loan, 
+		reducing the amount of loan, 
+		lending (to risky applicants) at a higher interest rate, etc.
 
 ## Table of Contents
 * [General Info](#general-information)
