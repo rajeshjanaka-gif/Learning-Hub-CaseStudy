@@ -1,11 +1,12 @@
 # Learning-Hub-CaseStudy
 This is a case study is to study given input Customer and loan data with the business objective of identifying <br>
-	if a person is likely to default, <br>
+	<UL>
+ 		<LI>if a person is likely to default, <br> <LI>
 		taking actions such as <br>
 		denying the loan, <br>
 		reducing the amount of loan, <br>
 		lending (to risky applicants) at a higher interest rate, etc.<br>
-
+</UL>
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
