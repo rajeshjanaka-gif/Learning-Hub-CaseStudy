@@ -25,7 +25,7 @@ Lending club is a leading financial organization which does business by giving l
 There two types of Risks.<br>
 <UL>
 	<LI>Loss of business</LI>
-	<</LI>>Financial loss</LI>
+	<LI>Financial loss</LI>
 </UL>
 Data given  contains Consumer attributes, Loan attributes about past loan applicants whether they ‘defaulted’ or not.<br>
 The problem is to find Dividing Factors, Driving Factors behind loan defaulters. Variables which are strong indicators of loan defaulters.                
